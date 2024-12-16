@@ -1,11 +1,13 @@
-# ML Pipeline
+# Online Conversions Prediction
 
-Project: Online Conversions Prediction
+Project: ML Pipeline for Online Conversions Prediction
+
 Author: Liubov Tovbin
 
 ## Installation
 
 Use Conda environment manager.
+
 To create a new Condas environment with all necessary installations run:
 
  conda create --name my_env --file requirements.txt
